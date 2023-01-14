@@ -19,3 +19,10 @@ docker-compose up -d
 ## Stack Usado
 * NestJS
 * MongoDB
+
+6. LLenar la variables de entorno definidas en el archivo .env
+7. Ejecutar la aplicacion en dev:
+```
+npm run start:dev
+```
+
